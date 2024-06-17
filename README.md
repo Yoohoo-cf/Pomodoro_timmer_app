@@ -14,7 +14,7 @@ The Pomodoro Technique is a time management method that uses a timer to break wo
 ### Installation
 
 * Clone the repository:
-* 
+  
 `https://github.com/Yoohoo-cf/Pomodoro_timmer_app.git`
 
 `cd Pomodoro_timmer_app`
@@ -27,7 +27,7 @@ The Pomodoro Technique is a time management method that uses a timer to break wo
 
 Run the script:
 
-`python main.py` on Macos or `py main.py` on Windows.
+`python main.py` on MacOs or `py main.py` on Windows.
 
 ### How to Use
 
@@ -50,4 +50,5 @@ WORK_MIN, SHORT_BREAK_MIN, LONG_BREAK_MIN: Duration of work, short break, and lo
 * Open a pull request.
 
 ### License
+
 This project is licensed under the MIT License. See the LICENSE file for details.
